@@ -1,0 +1,194 @@
+MEMBER 2: Presentation Script
+
+Slides 6–12 | Key Challenges
+
+⸻
+
+🟢 Slide 6: Key Challenges in Implementing Smart Infrastructure
+
+What you should say:
+
+“Now that we understand what smart infrastructure is and why it is important, we also need to understand the challenges involved in implementing it.
+
+There are five major challenges.
+
+First is the high implementation cost, because smart infrastructure requires sensors, networks, software and continuous maintenance.
+
+Second is cybersecurity, because connected infrastructure can become a target for cyberattacks.
+
+Third is the lack of skilled workforce, because technologies like AI, IoT and data analytics require specialized professionals.
+
+Fourth is data privacy, because smart cities collect large amounts of information about citizens.
+
+And finally, there is integration with existing infrastructure, because many cities still depend on old systems that were not designed to work with modern technology.
+
+I will briefly explain each of these challenges.”
+
+Transition:
+
+“Let us start with one of the biggest barriers, which is the cost.”
+
+⸻
+
+🟠 Slide 7: Challenge 1 – High Implementation Cost
+
+What you should say:
+
+“The first major challenge is high implementation cost.
+
+Smart infrastructure is expensive because it requires much more than just physical construction. It needs sensors, cameras, communication networks, software, data centres and control systems.
+
+Another important point is that the cost does not end after installation. These systems require regular maintenance, upgrades and cybersecurity.
+
+This becomes particularly difficult for cities with limited budgets.
+
+So, the main problem is that the initial investment is very high, and there are also continuous operational costs.”
+
+Transition:
+
+“A good example of this can be seen in Pune.”
+
+⸻
+
+📸 Slide 8: Real-Life Example – Pune Smart Traffic System
+
+What you should say:
+
+“Pune provides a good real-life example of this challenge.
+
+The city implemented an Adaptive Traffic Management System, which uses cameras, sensors and traffic data to adjust traffic signals according to actual traffic conditions.
+
+The system works in four basic steps. First, cameras and sensors collect traffic data. Then this data is transmitted to a central system. The data is analysed, and finally, traffic signals can be adjusted based on traffic conditions.
+
+The system can help reduce congestion, travel time, fuel consumption and emissions.
+
+However, implementing such a system requires a large investment because the city needs cameras, sensors, communication networks, control systems and long-term maintenance.
+
+So Pune shows us that smart technology can provide major benefits, but making existing infrastructure smart requires significant investment.”
+
+Transition:
+
+“But money is not the only concern. Once infrastructure becomes connected, another major problem appears: cybersecurity.”
+
+⸻
+
+🔐 Slide 9: Challenge 2 – Cybersecurity & Data Privacy
+
+What you should say:
+
+“The second major challenge is cybersecurity and data privacy.
+
+Smart infrastructure depends on connected devices and digital systems. This connectivity makes infrastructure more efficient, but it can also make it vulnerable to hacking, malware and ransomware attacks.
+
+For example, if a smart traffic system or electricity network is attacked, it could disrupt important public services.
+
+There is also the issue of data privacy. Smart cities collect information through CCTV cameras, transportation systems, sensors and digital services.
+
+Therefore, governments need strong encryption, authentication, security monitoring and data protection measures.
+
+In simple words, the smarter a city becomes, the more important cybersecurity becomes.”
+
+Transition:
+
+“And this is not just a theoretical risk. We have seen real examples of smart infrastructure being targeted.”
+
+⸻
+
+💻 Slide 10: Real-Life Examples – Ransomware Attacks
+
+What you should say:
+
+“There are real examples that show why cybersecurity is such an important challenge.
+
+One example is the Pimpri-Chinchwad Smart City project, where servers associated with the project were hit by a ransomware attack. The attackers encrypted files and demanded ransom.
+
+Another well-known example occurred in Washington, D.C. in 2017, when hackers compromised police surveillance cameras shortly before the Presidential Inauguration.
+
+These examples show that smart-city infrastructure can become a target because many systems are connected digitally.
+
+The important point is that cybersecurity has to be considered from the beginning of a smart infrastructure project, rather than being added later.”
+
+Transition:
+
+“The next challenge is less visible, but equally important: having people with the right technical skills and making new technology work with old infrastructure.”
+
+⸻
+
+👷 Slide 11: Challenge 3 – Skilled Workforce & Legacy Infrastructure
+
+What you should say:
+
+“The third challenge involves two connected issues: skilled workforce and legacy infrastructure.
+
+Smart infrastructure requires professionals who understand technologies such as AI, IoT, data analytics, cloud computing and cybersecurity.
+
+However, there can be a shortage of people with these specialized skills, especially at the local-government level.
+
+At the same time, cities already have large amounts of old infrastructure, such as water pipelines, electrical networks, drainage systems and communication networks.
+
+These systems were not originally designed to connect with modern digital technology.
+
+So, governments often have to upgrade old infrastructure while introducing new technology, which makes projects more complicated, expensive and time-consuming.”
+
+Transition:
+
+“Mumbai provides a useful real-world example of this problem.”
+
+⸻
+
+🏙️ Slide 12: Real-Life Example – Mumbai
+
+What you should say:
+
+“Mumbai is a good example of the difficulties involved in upgrading legacy infrastructure.
+
+The city has a large network of older underground pipelines, drainage systems, electrical networks and communication infrastructure.
+
+When new infrastructure or smart technology is introduced, these existing systems have to be considered and often upgraded or integrated.
+
+This can result in road excavation, traffic disruption, project delays and higher maintenance costs.
+
+The main lesson from Mumbai is that building smart infrastructure is not simply about adding new technology. It also requires upgrading and integrating the infrastructure that already exists.
+
+And that makes the transition to smart infrastructure more complex and time-consuming.”
+
+⸻
+
+🎯 Strong Ending for Member 2
+
+After Slide 12, don’t abruptly stop. Use this handover to Member 3:
+
+“So, we can see that implementing smart infrastructure involves three major areas of difficulty: high cost, cybersecurity and the challenge of skilled people and existing infrastructure.
+
+These challenges cannot be solved by technology alone. They require proper government policies, investment, regulations and cooperation with the private sector.
+
+And this brings us to the next part of our presentation, where we will look at the policy instruments and government initiatives that can help overcome these challenges.”
+
+Then hand over to Member 3.
+
+⸻
+
+🧠 Easy way to remember your entire section
+
+Think of Member 2 as one story:
+
+💰 Cost
+→ “Smart infrastructure is expensive.”
+
+📸 Pune
+→ “Here is what that cost looks like in real life.”
+
+🔐 Cybersecurity
+→ “Connected infrastructure can be attacked.”
+
+💻 Ransomware examples
+→ “Here is proof that it actually happens.”
+
+👷 Skills + Old Infrastructure
+→ “Even with money and technology, we need skilled people and compatible infrastructure.”
+
+🏙️ Mumbai
+→ “Here is what happens when new technology meets an old city.”
+
+➡️ Policies
+→ “So how can governments solve these problems?”
